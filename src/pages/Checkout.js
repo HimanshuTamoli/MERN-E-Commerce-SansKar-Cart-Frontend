@@ -428,7 +428,7 @@ function Checkout() {
                                 </a>
                               </h3>
                               <p className="ml-4">
-                                ${item.product.discountPrice}
+                                $ {item.product.discountPrice}
                               </p>
                             </div>
                             <p className="mt-1 text-sm text-gray-500">
